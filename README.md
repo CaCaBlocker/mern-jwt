@@ -46,4 +46,4 @@ npm start
 
 ### Next Step
 
-- [] Establish the production environment
+- [ ] Establish the production environment
