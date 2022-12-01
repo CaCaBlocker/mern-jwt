@@ -36,14 +36,13 @@ npm install
 
 ### Run Server
 
+- (Local)
 ```
-# Backend Server (Local)
 npm run dev
-# Frontend Server (Local)
-cd frontend
-npm start
 ```
-
+- (production)
+```
+```
 ### Next Step
 
 - [ ] Establish the production environment
