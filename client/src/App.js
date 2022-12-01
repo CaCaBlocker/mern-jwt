@@ -31,17 +31,6 @@ function App() {
         </Routes>
       </BrowserRouter>
       <ToastContainer />
-      <span className="copy-rights">
-        By &nbsp;
-        <a
-          href="https://mern-jwt-superumam.onrender.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="p-link"
-        >
-          SuperUmam
-        </a>
-      </span>
     </div>
   );
 }
