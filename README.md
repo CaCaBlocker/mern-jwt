@@ -43,3 +43,7 @@ npm run dev
 cd frontend
 npm start
 ```
+
+### Next Step
+
+- [] Establish the production environment
